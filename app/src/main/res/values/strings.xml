@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WearConverter</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_converter">ConverterActivity</string>
+    <string name="title_activity_temperature_convert">TemperatureConvert</string>
+    <string name="title_activity_length_convert">LengthConvert</string>
+    <string name="title_activity_weight_convert">WeightConvert</string>
+</resources>
